@@ -12,7 +12,7 @@ Projects:
 * [Data Modeling with Apache Cassandra]()
 * [Data Warehousing with S3 and Redshift]()
 * [Data Lake with Apache Spark]()
-* [Data Pipelines with Apache Airflow]()
+* [Data Pipelines with Apache Airflow](https://github.com/jcorrado76/udacity-data-engineer-final-projects/tree/dev/airflow_data_pipelines)
 * [Capstone Project]()
 
 Certificate:
